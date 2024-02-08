@@ -26,12 +26,12 @@ company_choice = ""
 
 
 def intro():
-  print("\n        Welcome to Retro Game Index.")
+  print("\n          Welcome to Retro Game Index.")
   print("------------------------------------------------")
   print("Choose a company and console to see a collection")
   print("     of great games to try on that system.")
   print("------------------------------------------------")
-  print("        The companys to search for are:")
+  print("        The companies to search for are:")
   print("  Atari - Mattel - NEC - Nintendo - Sega - SNK")
   print("------------------------------------------------")
   print("                Happy viewing\n\n")
